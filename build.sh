@@ -26,3 +26,5 @@ else
   echo "[*] Run make -C cmake-build-debug install, to install liboffsetfinder64 or obtain the binary at cmake-build-debug/liboffsetfinder64.a"
   echo "[*] Successfully built liboffsetfinder64."
 fi
+
+echo "swag"
